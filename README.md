@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="mailto:vyshnavichitluri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vyshnavi-chitluri-bb4a602a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/vyshnavi-svg" target="_blank"><img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -146,8 +146,8 @@ Job-alerting web app that helps users track application deadlines with a clean, 
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-6E40C9?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vyshnavi-chitluri-bb4a602a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/vyshnavi-svg" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-6E40C9?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -155,3 +155,4 @@ Job-alerting web app that helps users track application deadlines with a clean, 
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by!</i></p>
+
