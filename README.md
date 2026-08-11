@@ -1,144 +1,115 @@
-<!-- 
-  GitHub Profile README for Chitluri Vyshnavi
-  Tip: Replace "vyshnavi-svg" anywhere below if your GitHub username changes.
-  Add project/live-demo links inside the () brackets once you have them.
--->
-
-<h1 align="center">Hi there, I'm Vyshnavi Chitluri 👋</h1>
-
-<h3 align="center">MERN Stack Developer | Final Year B.Tech Student | ServiceNow Certified</h3>
+<h1 align="center">Hi 👋, I'm Chitluri Vyshnavi</h1>
+<h3 align="center">Final-year B.Tech ECE Student | ServiceNow Developer | Python & Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+Final+Year+Student;MERN+Stack+Developer;ServiceNow+Certified;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vyshnavi-chitluri-bb4a602a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vyshnavichitluri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/vyshnavi-svg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:vyshnavichitluri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧠 About Me
+### 🧑‍💻 About Me
 
-- 🎓 B.Tech (Final Year) student at **Ramachandra College of Engineering, Eluru**
-- 💻 Skilled in **Python, Java, HTML, CSS, JavaScript**, and **ServiceNow**
-- 🌱 Passionate about web development, exploring new technologies, and solving real-world problems
-- 🎯 **Career Goal:** Build a successful career in the IT industry — working in a challenging environment where I can learn new technologies, contribute to real-world projects, and grow into a skilled IT professional
-- 🎨 **Beyond code:** I enjoy photography, designing clothes, mehendi art, and following cricket
-- 📍 Based in Chintalapudi, India
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-00B8A9?style=for-the-badge&logo=servicenow&logoColor=white" />
-</p>
+- 🎓 Final-year B.Tech. student in **Electronics and Communication Engineering** at Ramachandra College of Engineering
+- 🛠️ Strong foundation in **ServiceNow administration & application development**, **Python**, **SQL**, and **Web Development (HTML, CSS, JavaScript)**
+- 📜 Certified **ServiceNow System Administrator (CSA)** and **Certified Application Developer (CAD)**
+- 💡 Hands-on experience building automation and full-stack projects
+- 🚀 Rapid prototyping experience from hackathon settings
+- 🎯 Seeking opportunities as a **Software Developer / ServiceNow Developer**
+- 📍 Based in Eluru, India
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-<!-- Add more projects here in the same format as you build them -->
+**Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🎲 Dice Rolling Game
-An interactive web-based dice rolling game that simulates a real dice roll with smooth animations, generating random numbers on each roll for a fun and engaging user experience.
+**Web Technologies**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Tech Stack:** HTML, CSS, JavaScript
-<!-- 🔗 GitHub: (add link here) | 🌐 Live Demo: (add link here) -->
+**Platforms & Tools**
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-000000?style=flat-square&logo=servicenow&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-## 🏆 Achievements & Certifications
-
-- ✅ **ServiceNow Certified**
-- 🏅 Participated in **MVGR Hackathon**
-
----
-
-## 📚 Currently Learning
-
-<!-- Update this list anytime as you pick up new skills -->
-- React.js
-- Advanced JavaScript / DSA
-- MongoDB & Backend Development
+**Core Competencies**
+`Data Analysis` · `Problem-Solving` · `Team Collaboration` · `Communication` · `Leadership`
 
 ---
 
-## 🤝 Open to Collaborate On
+### 💼 Internship Experience
 
-- 🌍 Open-source projects
-- 💼 Freelance opportunities
-- 🔬 Research projects
-- 🚀 Startup ideas
+**Python Development Intern — Octanet** *(May 2025 – Jun 2025)*
+- Completed an 8-week internship program focused on real-world Python practices
+
+**Prompt Engineering for AI — Eduskills** *(8 weeks)*
+- Applied Python programming skills to design and refine prompts for AI-driven applications, strengthening practical AI development knowledge
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyshnavi-svg&show_icons=true&theme=radical" alt="Vyshnavi's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavi-svg&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+#### 🎲 [Dice Rolling Game](#)
+`HTML` `CSS` `JavaScript`
+Built an interactive dice-rolling game with randomized dice generation logic and DOM-driven interactivity. Strengthened front-end skills including responsive layout design and real-time user interaction handling.
+
+#### 📋 [ApplyMate — Job Alerting Platform](#)
+`HTML` `CSS` `JavaScript`
+Designed and developed a job-alerting web application to help users track application deadlines and key dates, with an organized, user-friendly interface to reduce missed opportunities.
+
+> 💡 *Tip: Replace the `#` links above with your actual GitHub repository URLs once you push these projects.*
+
+---
+
+### 📜 Certifications
+
+- ✅ ServiceNow Certified System Administrator (CSA)
+- ✅ ServiceNow Certified Application Developer (CAD)
+- ✅ Python Programming — GeeksforGeeks
+- ✅ Python Certification — HackerRank
+- ✅ HTML and CSS Certificate — LetsUpgrade
+- ✅ Artificial Intelligence Fundamentals — IBM
+
+---
+
+### 🏆 Hackathons & Workshops
+
+- 🏅 24-Hour Hackathon @ MVGR College of Engineering — collaborated in a team to design and prototype a real-world solution under tight deadlines
+- 🧠 Python Using AI Workshop — AI for Techies
+- 📊 Power BI Workshop — Office Master
+- ⏱️ 3-Hour Masterclass on Python — Codegnan
+
+---
+
+### 🎓 Education
+
+| Institution | Degree | Score |
+|---|---|---|
+| Ramachandra College of Engineering | B.Tech, Electronics and Communication Engineering | 84% |
+| Vidya Vikas Junior College (2023) | Intermediate — MPC | 92% |
+| Hayagreeva Elite School (2021) | SSC | 98% |
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  📧 <a href="mailto:vyshnavichitluri@gmail.com">vyshnavichitluri@gmail.com</a> &nbsp;|&nbsp;
+  📞 +91 9398013938 &nbsp;|&nbsp;
+  📍 Eluru, India
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavi-svg&theme=radical" alt="GitHub Streak" />
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github"></a>
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vyshnavi-chitluri-bb4a602a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vyshnavichitluri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Thanks for stopping by! Feel free to explore my repositories and connect with me 🚀</i>
-</p>
+<p align="center"><i>⭐️ Thanks for visiting my profile!</i></p>
