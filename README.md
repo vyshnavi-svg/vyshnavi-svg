@@ -1,115 +1,143 @@
-<h1 align="center">Hi 👋, I'm Chitluri Vyshnavi</h1>
-<h3 align="center">Final-year B.Tech ECE Student | ServiceNow Developer | Python & Web Developer</h3>
+<h1 align="center">Hi there, I'm Chitluri Vyshnavi 👋</h1>
+<h3 align="center">🚀 ServiceNow Developer | Python Enthusiast | Web Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Final+Year+B.Tech+ECE+Student;ServiceNow+CSA+%7C+CAD+Certified;Python+%7C+SQL+%7C+JavaScript+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="mailto:vyshnavichitluri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## ✨ About Me
 
-- 🎓 Final-year B.Tech. student in **Electronics and Communication Engineering** at Ramachandra College of Engineering
-- 🛠️ Strong foundation in **ServiceNow administration & application development**, **Python**, **SQL**, and **Web Development (HTML, CSS, JavaScript)**
-- 📜 Certified **ServiceNow System Administrator (CSA)** and **Certified Application Developer (CAD)**
-- 💡 Hands-on experience building automation and full-stack projects
-- 🚀 Rapid prototyping experience from hackathon settings
-- 🎯 Seeking opportunities as a **Software Developer / ServiceNow Developer**
-- 📍 Based in Eluru, India
+```python
+class Vyshnavi:
+    def __init__(self):
+        self.role = "Software Developer / ServiceNow Developer"
+        self.certifications = ["ServiceNow CSA", "ServiceNow CAD"]
+        self.skills = ["Python", "SQL", "JavaScript", "ServiceNow", "Power BI"]
+        self.location = "Eluru, India"
 
----
-
-### 🛠️ Tech Stack
-
-**Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Web Technologies**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Platforms & Tools**
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-000000?style=flat-square&logo=servicenow&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Core Competencies**
-`Data Analysis` · `Problem-Solving` · `Team Collaboration` · `Communication` · `Leadership`
+    def strengths(self):
+        return ["Problem-Solving", "Team Collaboration", "Rapid Prototyping", "Communication"]
+```
 
 ---
 
-### 💼 Internship Experience
+## 🛠️ Tech Stack
 
-**Python Development Intern — Octanet** *(May 2025 – Jun 2025)*
-- Completed an 8-week internship program focused on real-world Python practices
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git,github,powerbi" />
+</p>
 
-**Prompt Engineering for AI — Eduskills** *(8 weeks)*
-- Applied Python programming skills to design and refine prompts for AI-driven applications, strengthening practical AI development knowledge
+<p align="center">
+  <img src="https://img.shields.io/badge/-ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=white"/>
+</p>
 
----
-
-### 🚀 Featured Projects
-
-#### 🎲 [Dice Rolling Game](#)
-`HTML` `CSS` `JavaScript`
-Built an interactive dice-rolling game with randomized dice generation logic and DOM-driven interactivity. Strengthened front-end skills including responsive layout design and real-time user interaction handling.
-
-#### 📋 [ApplyMate — Job Alerting Platform](#)
-`HTML` `CSS` `JavaScript`
-Designed and developed a job-alerting web application to help users track application deadlines and key dates, with an organized, user-friendly interface to reduce missed opportunities.
-
-> 💡 *Tip: Replace the `#` links above with your actual GitHub repository URLs once you push these projects.*
+`Data Analysis` &nbsp;•&nbsp; `Problem-Solving` &nbsp;•&nbsp; `Team Collaboration` &nbsp;•&nbsp; `Communication` &nbsp;•&nbsp; `Leadership`
 
 ---
 
-### 📜 Certifications
+## 💼 Experience
 
-- ✅ ServiceNow Certified System Administrator (CSA)
-- ✅ ServiceNow Certified Application Developer (CAD)
-- ✅ Python Programming — GeeksforGeeks
-- ✅ Python Certification — HackerRank
-- ✅ HTML and CSS Certificate — LetsUpgrade
-- ✅ Artificial Intelligence Fundamentals — IBM
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🐍 Python Development Intern
+**Octanet** · May 2025 – Jun 2025
+Completed an 8-week internship focused on real-world Python practices.
 
-### 🏆 Hackathons & Workshops
+</td>
+<td width="50%" valign="top">
 
-- 🏅 24-Hour Hackathon @ MVGR College of Engineering — collaborated in a team to design and prototype a real-world solution under tight deadlines
-- 🧠 Python Using AI Workshop — AI for Techies
-- 📊 Power BI Workshop — Office Master
-- ⏱️ 3-Hour Masterclass on Python — Codegnan
+### 🤖 Prompt Engineering for AI
+**Eduskills** · 8 weeks
+Designed and refined prompts for AI-driven applications using Python.
 
----
-
-### 🎓 Education
-
-| Institution | Degree | Score |
-|---|---|---|
-| Ramachandra College of Engineering | B.Tech, Electronics and Communication Engineering | 84% |
-| Vidya Vikas Junior College (2023) | Intermediate — MPC | 92% |
-| Hayagreeva Elite School (2021) | SSC | 98% |
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎲 Dice Rolling Game
+**`HTML` `CSS` `JavaScript`**
+
+Interactive dice-rolling game with randomized dice logic and DOM-driven interactivity. Focused on responsive layout and real-time user interaction.
+
+[🔗 View Repo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 ApplyMate — Job Alerting Platform
+**`HTML` `CSS` `JavaScript`**
+
+Job-alerting web app that helps users track application deadlines with a clean, user-friendly interface.
+
+[🔗 View Repo](#)
+
+</td>
+</tr>
+</table>
+
+> 💡 *Replace the `#` links above with your real repository URLs.*
+
+---
+
+## 📜 Certifications
 
 <p align="left">
+  <img src="https://img.shields.io/badge/ServiceNow-CSA%20Certified-2E7D32?style=flat-square&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ServiceNow-CAD%20Certified-2E7D32?style=flat-square&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Python-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LetsUpgrade-HTML%20%26%20CSS-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Hackathons & Workshops
+
+- 🏅 **24-Hour Hackathon** @ MVGR College of Engineering — team-based rapid prototyping under tight deadlines
+- 🧠 **Python Using AI Workshop** — AI for Techies
+- 📊 **Power BI Workshop** — Office Master
+- ⏱️ **3-Hour Python Masterclass** — Codegnan
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
   📧 <a href="mailto:vyshnavichitluri@gmail.com">vyshnavichitluri@gmail.com</a> &nbsp;|&nbsp;
   📞 +91 9398013938 &nbsp;|&nbsp;
   📍 Eluru, India
 </p>
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github"></a>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
 
-<p align="center"><i>⭐️ Thanks for visiting my profile!</i></p>
+<p align="center"><i>⭐️ Thanks for stopping by!</i></p>
